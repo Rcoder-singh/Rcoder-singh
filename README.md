@@ -1,5 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/bfda4310-9ecd-4e7f-b52f-34ddaba40171.svg)](https://wakatime.com/@bfda4310-9ecd-4e7f-b52f-34ddaba40171)
- # Hello Everyone, I'm Rishabh
+ # Hello Everyone, I'm Rishabh Singh
 **`How does it work?`**
 
 Choosing `science (with computers)` in school and `computer science and engineering` in graduate school was motivated by this question. I'm keen to learn new topics and technologies, as well as use my technological expertise to address problems in the real world. When a new technology or tool crosses my path while developing a solution or working on a project, I always learn about it and put it to use.
@@ -8,3 +8,4 @@ Choosing `science (with computers)` in school and `computer science and engineer
 ## Connect with me:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-Rishabhsingh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-singh22/) [![twitter](https://img.shields.io/badge/twitter-RIshabhSingh-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rishabh19005463) 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rcoder-singh&theme=transparent&show_icons=true&text_color=D93A7C" />
