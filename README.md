@@ -1,5 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/bfda4310-9ecd-4e7f-b52f-34ddaba40171.svg)](https://wakatime.com/@bfda4310-9ecd-4e7f-b52f-34ddaba40171)
  # Hello Everyone, I'm Rishabh Singh
+ 
 **`How does it work?`**
 
 Choosing `science (with computers)` in school and `computer science and engineering` in graduate school was motivated by this question. I'm keen to learn new topics and technologies, as well as use my technological expertise to address problems in the real world. When a new technology or tool crosses my path while developing a solution or working on a project, I always learn about it and put it to use.
@@ -8,4 +9,15 @@ Choosing `science (with computers)` in school and `computer science and engineer
 ## Connect with me:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-Rishabhsingh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-singh22/) [![twitter](https://img.shields.io/badge/twitter-RIshabhSingh-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rishabh19005463) 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rcoder-singh&theme=transparent&show_icons=true&text_color=D93A7C" />
+
+## Stats for nerds:
+
+<p>
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rcoder-singh&theme=transparent&layout=compact&langs_count=16" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rcoder-singh&theme=transparent&layout=compact">
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rcoder-singh&theme=transparent&show_icons=true&text_color=D93A7C" />
+  <img align="center" height="200"  src="https://camo.githubusercontent.com/8847cc086ad4e08b4d52c0588b0e641fc8364c2fde6a09cdf8144ae75a537e0f/68747470733a2f2f6769646967692e636f6d2f63646e2f6c6f76652e676966">
+</p>
+
