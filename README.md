@@ -13,7 +13,7 @@ Choosing `science (with computers)` in school and `computer science and engineer
 ## Stats for nerds:
 
 <p>
-  <img height="100" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rcoder-singh&theme=transparent&layout=compact&langs_count=16" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rcoder-singh&theme=transparent&layout=compact&langs_count=16" />
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rcoder_singh&theme=transparent&layout=compact">
 </p>
 <p>
