@@ -1,4 +1,4 @@
-![counter](https://eni7t03ynlw6vfk.m.pipedream.net)    [![wakatime](https://wakatime.com/badge/user/bfda4310-9ecd-4e7f-b52f-34ddaba40171.svg)](https://wakatime.com/@bfda4310-9ecd-4e7f-b52f-34ddaba40171)
+    [![wakatime](https://wakatime.com/badge/user/bfda4310-9ecd-4e7f-b52f-34ddaba40171.svg)](https://wakatime.com/@bfda4310-9ecd-4e7f-b52f-34ddaba40171)
  # Hello Everyone, I'm Rishabh Singh
  
 **`How does it work?`**
