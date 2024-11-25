@@ -1,3 +1,4 @@
+![counter](https://eni7t03ynlw6vfk.m.pipedream.net)
 [![wakatime](https://wakatime.com/badge/user/bfda4310-9ecd-4e7f-b52f-34ddaba40171.svg)](https://wakatime.com/@bfda4310-9ecd-4e7f-b52f-34ddaba40171)
  # Hello Everyone, I'm Rishabh Singh
  
@@ -5,10 +6,10 @@
 
 Choosing `science (with computers)` in school and `computer science and engineering` in graduate school was motivated by this question. I'm keen to learn new topics and technologies, as well as use my technological expertise to address problems in the real world. When a new technology or tool crosses my path while developing a solution or working on a project, I always learn about it and put it to use.
 ## Technologies
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![git](https://img.shields.io/badge/Git-ff0000?style=for-the-badge&logo=github&logoColor=white) ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=git&logoColor=white) ![vscode](https://img.shields.io/badge/VS_Code-2E7EB0?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<!---![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![git](https://img.shields.io/badge/Git-ff0000?style=for-the-badge&logo=github&logoColor=white) ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=git&logoColor=white) ![vscode](https://img.shields.io/badge/VS_Code-2E7EB0?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)--->
 ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-<p><img height="200" align="center" src="https://skillicons.dev/icons?i=arch,babel,bootstrap,css,git,github,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,npm,postman,py,redhat,react,redux,tailwind,threejs,vercel,vite,vscode,windows"/></p>
+<img height="200" src="https://skillicons.dev/icons?i=arch,babel,bootstrap,css,git,github,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,npm,postman,py,redhat,react,redux,tailwind,threejs,vercel,vite,vscode,windows"/>
 
 ## Connect with me:
 
@@ -17,9 +18,10 @@ Choosing `science (with computers)` in school and `computer science and engineer
 ## Stats for nerds:
 
 <p>
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rcoder-singh&theme=transparent&layout=compact&langs_count=16" />
- <img   align="center" src="https://github-readme-stats.vercel.app/api?username=Rcoder-singh&theme=transparent&show_icons=true&text_color=D93A7C" />
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rcoder_singh&theme=transparent&layout=compact">
+  <img height="200"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rcoder-singh&theme=transparent&layout=compact&langs_count=16" />
+ <img  height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Rcoder-singh&theme=transparent&show_icons=true&text_color=D93A7C" /></p>
+<p>  <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rcoder_singh&theme=transparent&layout=compact">
+ <img height="195"  align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Rcoder-singh&theme=dark&hide_border=false&type=svg&background=EB545400&ring=FEFE5B&currStreakLabel=FEFE5B"/>
 </p>
 <!-- <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rcoder-singh&theme=transparent&show_icons=true&text_color=D93A7C" />
