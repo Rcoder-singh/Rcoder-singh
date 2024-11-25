@@ -15,7 +15,7 @@ Choosing `science (with computers)` in school and `computer science and engineer
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-Rishabhsingh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-singh22/) [![twitter](https://img.shields.io/badge/twitter-RIshabhSingh-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rishabh19005463) 
 
-## Stats for nerds:
+## Stats:
 
 <p>
   <img height="200"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rcoder-singh&theme=transparent&layout=compact&langs_count=16" />
